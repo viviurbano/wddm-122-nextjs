@@ -8,4 +8,4 @@ Create a personal website with Next JS
 https://github.com/viviurbano/wddm-122-nextjs
 
 💻 App deployed on Vercel.
-https://github.com/viviurbano/<REPLACE>
+https://wddm-122-nextjs-viviurbano.vercel.app
